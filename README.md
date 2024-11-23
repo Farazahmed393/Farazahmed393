@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Faraz Ahmed
+- 👀 I’m interested in coding
+- 🌱 I’m currently working as a full-stack developer
+- 📫 How to reach me, just contact me on 0313-8248174
